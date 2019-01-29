@@ -40,6 +40,9 @@ public class ManToMan {
 		}
 	}
 	
+	/**
+	 * 배열 정보 출력
+	 */
 	private static String getString(int[] arr) {
 		String ret = "[";
 		for (int i=0; i<arr.length; i++) {
